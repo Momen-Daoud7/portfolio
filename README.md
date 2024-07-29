@@ -1,4 +1,4 @@
-# Your Name - Portfolio Website
+# Momen. - Portfolio Website
 
 ## Description
 
@@ -74,8 +74,7 @@ src/
 │   ├── Articles.tsx
 │   └── Footer.tsx
 ├── App.tsx
-├── index.tsx
-└── utils.ts
+├── main.tsx
 ```
 
 ## Customization
@@ -107,6 +106,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - momendaoud.soft@gmail.com
 
-Project Link: [https://github.com/yourusername/your-portfolio](https://github.com/yourusername/your-portfolio)
+Project Link: [https://momendaoud.com](https://momendaoud.com)
